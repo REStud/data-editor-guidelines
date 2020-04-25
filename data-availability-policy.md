@@ -4,7 +4,7 @@ Authors of accepted papers that contain empirical work, numerical simulations, o
 The submission of this material indicates that authors [license](https://social-science-data-editors.github.io/guidance/Licensing_guidance.html) users to download, copy, and modify it.
 Such users must acknowledge all authors as the original creators and the Review of Economic Studies as the original publisher.
 These will be posted in the Review's Replication Archive.
-The Managing Editor and the Data Editor should be notified at the time of submission if the above requirements cannot be met for any reason (see details below).
+The Managing Editor should be notified at the time of submission if the above requirements cannot be met for any reason (see details below).
 We reserve the right to refuse publication of papers whose authors do not comply with these requirements.
 
 As soon as possible after receiving instructions from the Journal Manager, authors of accepted papers are expected to send their data, programs, and sufficient details to permit replication, in electronic form, to the Review office.
