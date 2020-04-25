@@ -1,7 +1,7 @@
 # Data Availability Policy
 
 Authors of accepted papers that contain empirical work, numerical simulations, or experimental work must in principle make available to the journal any data, programs, and details for the computations necessary for replication.
-The submission of this material indicates that authors [license](link to license) users to download, copy, and modify it.
+The submission of this material indicates that authors [license](https://social-science-data-editors.github.io/guidance/Licensing_guidance.html) users to download, copy, and modify it.
 Such users must acknowledge all authors as the original creators and the Review of Economic Studies as the original publisher.
 These will be posted in the Review's Replication Archive.
 The Managing Editor and the Data Editor should be notified at the time of submission if the above requirements cannot be met for any reason (see details below).
@@ -14,11 +14,11 @@ Questions regarding any aspect of this policy should be forwarded to the Data Ed
 
 Upon acceptance, authors should provide data set(s) and computer programs used in the work.
 
-A [Data Citation]() and a [Data Availability Statement]() should be include for ALL data used in the work, regardless of whether they are provided as part of the replication archive or not, and regardless of size or scope.
+A [Data Citation](https://social-science-data-editors.github.io/guidance/Data_citation_guidance.html) and a [Data Availability Statement](https://academic.oup.com/journals/pages/authors/preparing_your_manuscript/research-data-policy#data2) should be include for ALL data used in the work, regardless of whether they are provided as part of the replication archive or not, and regardless of size or scope.
 
 If intermediate data sets and programs used for the composition of the final data set are not submitted, authors are expected to provide a description of the final data set construction and to cooperate with investigators seeking to conduct a replication.
 Data files and programs can be provided in any format using any statistical package or software.
-A Readme PDF file listing all included files and documenting the purpose and format of each file should be provided.
+A Readme file listing all included files and documenting the purpose and format of each file should be provided in PDF or Markdown format.
 
 Readme files should include information on the operating system-software version combination used in the analysis and ideally an estimate for computation time (possibly with hardware specifications used in the execution of the programs).
 Software requirements should explicitly list all modules, libraries, toolboxes and commands used that are not part of the core software.
@@ -28,7 +28,7 @@ A template README file is [available here]().
 
 The Data Editor acknowledge that practical difficulties in complying with this policy may exist, as with proprietary datasets with limited access or public use data sets that require consent forms to be signed before use.
 Exemptions in such cases are possible, but authors must provide interested investigators the necessary information on how to obtain the data (even if the data are provided by a third party at a monetary cost).
-This information should be provided in the Readme PDF file and a copy of the relevant programs to generate the final results is still required.
+This information should be provided in the Readme file and a copy of the relevant programs to generate the final results is still required.
 In some specific cases, computer programs may have value in themselves and the authors may not make them public.
 Similarly, there may be compelling reasons to restrict usage, and if Managing Editors agree, we will post a notice on the web site regarding such restrictions.
 
